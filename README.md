@@ -7,6 +7,9 @@ pip install -r requirements.txt
 ```
 
 ## Usage
+### cars.py
+Estimate the background of a road using previous frames and the mean.
+
 ### black_hole.py
 this code is for background estimation of road video
 
