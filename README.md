@@ -1,7 +1,7 @@
 # ASSIGNMENT 4
 
 ## Installation
-Run this command in terminal.
+Create a directory named `results` in the root directory and run this command in terminal.
 ```
 pip install -r requirements.txt
 ```
